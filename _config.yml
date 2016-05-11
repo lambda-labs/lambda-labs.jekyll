@@ -13,7 +13,7 @@ description: > # this means to ignore newlines until "baseurl:"
         and the human condition.
 baseurl:
 url: "http://lambda-labs.github.com" # the base hostname & protocol for your site
-twitter_username: lambda-labs
+twitter_username: 
 github_username:  lambda-labs
 
 # Build settings
