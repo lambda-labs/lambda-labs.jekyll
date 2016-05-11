@@ -1,1 +1,1 @@
-# lambda-labs.jekyll
+(λ)
